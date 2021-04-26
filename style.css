@@ -1,0 +1,40 @@
+*{
+	
+	padding: 0px;
+}
+body {
+	background: #ff6ec7; margin: 10px; padding: 5px 
+}
+h1 {
+	color: #440bd4; font-size: 30px; font-family: "DAGGERSQUARE",serif
+}
+#boxmodel {
+	background-color: #4991ac; margin-top: 1.5px;
+	padding: 15px; 
+}
+.inox{
+	background-color: yellow;
+    display: inline-block;
+    width: 131px;
+    box-shadow: 13px 10px 24px;
+	text-align: center;
+}
+}
+#content {
+	background-color: #fff5d2
+}
+#linkspan {
+	background-color: #fff5d2
+}
+.headings {
+	 font-size: 140%; font-family: "Times New Roman",serif; background-color: #d3f6e9
+}
+#linkbox {
+	background-color: #4991ac; padding: 2px; margin: 5px 3px 3px 3px ;
+	width: 140px; height: 100px; border: 1px solid black; box-sizing: border-box; text-align: center;
+
+}
+#introduction {
+	margin-top: 50px;
+	
+}
